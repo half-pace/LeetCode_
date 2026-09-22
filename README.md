@@ -1,6 +1,3 @@
-# LeetCode_
-
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
